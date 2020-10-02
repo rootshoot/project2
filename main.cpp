@@ -10,4 +10,5 @@ cout<<"Hello world2";
 
 int a = 10;
 cout<<"A equals "<<a;
+cout<<"Done"<<endl;
 }

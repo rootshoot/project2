@@ -61,8 +61,18 @@ class Salary : public Qualification
 
 int main()
 {
+
 	Salary s;
 	s.emp_info();
 	s.emp_data();
 	s.emp_salary();
+
+cout<<"Hello World";
+cout<<"Hello Moto";
+
+cout<<"Hello world2";
+
+int a = 10;
+cout<<"A equals "<<a;
+
 }

@@ -4,6 +4,8 @@ using namespace std;
 int main()
 {
 cout<<"Hello World";
+cout<<"Hello Moto";
+
 cout<<"Hello world2";
 
 int a = 10;

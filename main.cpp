@@ -58,7 +58,18 @@ class Salary : public Qualification
 		}
 };
 
-
+// factorial
+int fac(int a)
+{
+	if(a==1)
+	{
+		return a;
+	}
+	else 
+	{
+		return a*fac(a-1);
+	}
+}
 int main()
 {
 
@@ -74,5 +85,7 @@ cout<<"Hello world2";
 
 int a = 10;
 cout<<"A equals "<<a;
+int b=5;
+cout<<fac(b);
 
 }

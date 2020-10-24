@@ -71,6 +71,7 @@ cout<<"Hello World";
 cout<<"Hello Moto";
 cout<<"hey its csk";
 cout<<"Hello world2";
+cout<<"Hello Aditya";
 
 int a = 10;
 cout<<"A equals "<<a;
